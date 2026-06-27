@@ -1,0 +1,87 @@
+<mxfile host="Electron">
+  <diagram name="Page-1" id="ocUe0VH0L1RxZ3EiKIvZ">
+    <mxGraphModel dx="868" dy="750" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="AxuylRWKn58g-WEnsx6J-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div&gt;Netgear R7000&lt;/div&gt;&lt;div&gt;DD-WRT&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="110" x="370" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="AxuylRWKn58g-WEnsx6J-23" edge="1" parent="1" source="AxuylRWKn58g-WEnsx6J-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420.47058823529414" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AxuylRWKn58g-WEnsx6J-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;aspect=fixed;" value="ISP Modem" vertex="1">
+          <mxGeometry height="30" width="90" x="380" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="AxuylRWKn58g-WEnsx6J-10" edge="1" parent="1" source="AxuylRWKn58g-WEnsx6J-6" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="AxuylRWKn58g-WEnsx6J-9" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="510" y="390" as="sourcePoint" />
+            <mxPoint x="560" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AxuylRWKn58g-WEnsx6J-11" edge="1" parent="1" source="AxuylRWKn58g-WEnsx6J-24" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="AxuylRWKn58g-WEnsx6J-6" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="420" y="380" as="sourcePoint" />
+            <mxPoint x="560" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AxuylRWKn58g-WEnsx6J-13" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;points=[[0.07,0.4,0,0,0],[0.13,0.77,0,0,0],[0.16,0.55,0,0,0],[0.25,0.25,0,0,0],[0.31,0.8,0,0,0],[0.4,0.1,0,0,0],[0.55,1,0,0,2],[0.625,0.2,0,0,0],[0.8,0.8,0,0,0],[0.875,0.5,0,0,0],[0.88,0.25,0,0,0],[0.96,0.7,0,0,0]];" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Internet&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="100" x="375" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="AxuylRWKn58g-WEnsx6J-17" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="330" y="470" as="sourcePoint" />
+            <mxPoint x="530" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AxuylRWKn58g-WEnsx6J-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div&gt;Raspberry Pi 4&lt;/div&gt;&lt;div&gt;Infrastructure Node&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="121" x="270" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="AxuylRWKn58g-WEnsx6J-25" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="AxuylRWKn58g-WEnsx6J-24" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="420" y="380" as="sourcePoint" />
+            <mxPoint x="420" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AxuylRWKn58g-WEnsx6J-24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;p class=&quot;p1&quot;&gt;TP-Link TL-SG108 4&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;-Port Gigabit Switch&lt;/span&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="80" width="110" x="370" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="AxuylRWKn58g-WEnsx6J-22" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div&gt;Lenovo ThinkCentre&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Application Server&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="130" x="460" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="AxuylRWKn58g-WEnsx6J-31" edge="1" parent="1" source="AxuylRWKn58g-WEnsx6J-13" style="endArrow=none;html=1;rounded=0;exitX=0.503;exitY=0.997;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="AxuylRWKn58g-WEnsx6J-9" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="420" y="280" as="sourcePoint" />
+            <mxPoint x="470" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AxuylRWKn58g-WEnsx6J-33" edge="1" parent="1" source="AxuylRWKn58g-WEnsx6J-24" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="425" y="450" as="sourcePoint" />
+            <mxPoint x="425" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AxuylRWKn58g-WEnsx6J-34" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;entryX=0.537;entryY=-0.021;entryDx=0;entryDy=0;entryPerimeter=0;" target="AxuylRWKn58g-WEnsx6J-22" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="530" y="470" as="sourcePoint" />
+            <mxPoint x="510" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AxuylRWKn58g-WEnsx6J-36" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="330" y="500" as="sourcePoint" />
+            <mxPoint x="330" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AxuylRWKn58g-WEnsx6J-37" parent="1" style="text;whiteSpace=wrap;html=1;align=center;" value="&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Home-Datacenter&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Physical Infrastructure Overview&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="140" x="355" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="AxuylRWKn58g-WEnsx6J-38" parent="1" style="text;whiteSpace=wrap;" value="Version 1.0 &#xa;June 2026" vertex="1">
+          <mxGeometry height="40" width="80" x="750" y="1040" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

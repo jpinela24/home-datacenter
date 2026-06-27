@@ -1,0 +1,13 @@
+macOS
+
+.DS_Store
+
+Draw.io temporary files
+
+.bkp
+.~
+.$*
+
+VS Code
+
+.vscode/settings.json
